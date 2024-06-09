@@ -1,0 +1,15 @@
+Name,ClassID
+Speed limit (5km/h),0
+Speed limit (40km/h),1
+Speed limit (60km/h),2
+speed limit (80km/h),3
+Dont Go Left,4
+Dont overtake from Left,5
+No Car,6
+No horn,7
+keep Right,8
+watch out for cars,9
+Bicycles crossing,10
+Zebra Crossing,11
+No stopping,12
+No entry,13
